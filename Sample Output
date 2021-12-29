@@ -1,0 +1,56 @@
+Enter the RemoteHost Login Details
+----------------------------------
+	
+RemoteHost IP: 54.236.152.99
+RemoteHost Username: ubuntu
+RemoteHost Password: 
+RemoteHost keyfile name: D:\Misc\tets.pem
+	
+Remote Server OS and Version
+----------------------------
+Linux version 4.4.0-1128-aws (buildd@lcy01-amd64-029) (gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.12) ) #142-Ubuntu SMP Fri Apr 16 12:42:33 UTC 2021
+
+	
+Remote Server Total CPU and Cores
+---------------------------------
+Total CPU/Core count for Remote server:  CPU(s):                2
+
+	
+Connected Server Total RAM in GB
+--------------------------------
+Total RAM for Remote server:        8173840 K total memory
+
+	
+Connected Server Total Disk Spaces
+----------------------------------
+Total Disk for Remote server:  Filesystem      Size  Used Avail Use% Mounted on
+udev            3.9G     0  3.9G   0% /dev
+tmpfs           799M  8.8M  790M   2% /run
+/dev/xvda1      7.7G  2.2G  5.5G  29% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M     0  5.0M   0% /run/lock
+tmpfs           3.9G     0  3.9G   0% /sys/fs/cgroup
+/dev/loop0       33M   33M     0 100% /snap/snapd/13170
+/dev/loop1       56M   56M     0 100% /snap/core18/2128
+/dev/loop2       25M   25M     0 100% /snap/amazon-ssm-agent/4046
+/dev/loop3       56M   56M     0 100% /snap/core18/2253
+/dev/loop4       44M   44M     0 100% /snap/snapd/14295
+tmpfs           799M     0  799M   0% /run/user/1000
+total            22G  2.4G   19G  12% -
+
+	
+Enter Remote MySQL Username: root
+Enter Remote MySQL Password: root
+	
+Successfully connected Remote MySQL Server : ip-172-31-91-163
+	
+ip-172-31-91-163 Database Name and Size in MB
+----------------------------------------------
+information_schema - 0.16
+mysql - 2.52
+performance_schema - 0.00
+sys - 0.02
+	
+Database Port :
+---------------
+ip-172-31-91-163 Server MySQL Port is : 3306
