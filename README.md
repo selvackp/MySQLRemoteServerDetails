@@ -13,4 +13,4 @@ As per the requirements basic details are listed in this script
 Note : 
 
 	1.We have used AWS EC2 Instance to test the code , if you are using VMWare or OnPrem Host Just ignore key_filename 
-	2.Just enter details you have to connect 
+	2.Just enter the details you have to connect
