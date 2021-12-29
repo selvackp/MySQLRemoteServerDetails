@@ -13,4 +13,6 @@ As per the requirements basic details are listed in this script
 Note : 
 
 	1.We have used AWS EC2 Instance to test the code , if you are using VMWare or OnPrem Host Just ignore key_filename 
-	2.Just enter the details you have to connect
+	2.re_host_password - If no password for AWS machine just enter to fill the next details
+	3.re_host_key_file - If no keys just enter to move next step . We have tested AWS machine , so its required to pass pem key file to connect
+	4.re_host_IP - If any IP works , pass that to RemoteHost IP
